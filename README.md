@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,7 +11,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -19,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-- See hover states for interactive elements
+- View the optimal layout depending on their device's screen size
 
 ### Screenshot
 
@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor Solution](https://www.frontendmentor.io/solutions/ordersumary-S1kbYmJSc)
-- Live Site URL: [Live site URL here](https://order-sumary.vercel.app/)
+- Solution URL: [frontendmentor Solution](https://www.frontendmentor.io/solutions/statspreviewcardcomponentmain-BJIA2tySq)
+- Live Site URL: [Live site URL here](https://stats-preview-card-component-main-red-seven.vercel.app/)
 
 ### Built with
 
